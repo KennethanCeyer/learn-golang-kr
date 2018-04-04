@@ -935,4 +935,4 @@
   * [Tipe](https://tipe.io) - [github](https://github.com/tipeio)
   * [4wardtech Inc](http://4ward.tech/)
 
-[성공사례](SuccessStories)도 살펴보세요
+[성공사례](SuccessStories)도 살펴봐주세요
