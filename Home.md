@@ -1,1 +1,1 @@
-Welcome to the learn-golang-kr wiki!
+[시작하며](시작하며)
