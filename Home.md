@@ -23,17 +23,17 @@
 
 ## Go로 작업하기
 
-Ready to write some Go code of your own? Here are a few links to help you  get started.
+Go로 여러분만의 코드를 작성하실 준비가 되셨나요? 여러분이 시작하시는데 도움을 줄 수 있는 몇가지 링크를 준비했습니다.
 
-  - Install and Setup your Environment
-    - Start here: [Official Installation Documentation](https://golang.org/doc/install)
-    -  If you prefer to install from source, [read this first](https://golang.org/doc/install/source).
-      - [InstallFromSource](InstallFromSource) - Additional tips on source installs.
-    - Windows user? [Install and configure Go, Git and Atom for Windows](https://github.com/abourget/getting-started-with-golang)
-    - Mac user? [How I start - Go](https://howistart.org/posts/go/1) - A step-by-step guide to installing Go and building your first web service.
-    - Having installation problems? [InstallTroubleShooting](InstallTroubleShooting)
-    - Make sure you have your [$GOPATH environment variable set correctly](https://golang.org/doc/install/source#gopath)
-      - If you need additional tips on using [$GOPATH, go here](GOPATH).
+  - 설치 및 환경세팅
+    - 해당 메뉴를 이용하세요: [공식 설치문서](https://golang.org/doc/install)
+    -  만약에 소스를 통해 직접 설치를 원하신다면, [먼저 이 링크를 읽어주세요](https://golang.org/doc/install/source).
+      - [소스를 통해 설치](InstallFromSource) - 소스 설치방법의 추가적인 팁들입니다.
+    - Windows 사용자인가요? [Go 설치 및 설정 및 Windows 사용자를 위한 Git, Atom](https://github.com/abourget/getting-started-with-golang)
+    - Mac 사용자인가요? [Go를 어떻게 시작할까요](https://howistart.org/posts/go/1) - Go 설치 및 여러분의 첫 번째 웹 서비스 구축에 대한 단계별 안내입니다.
+    - 설치중에 문제가 발생했나요? [설치문제 해결](InstallTroubleShooting)
+    - 여러분이 [올바른 $GOPATH 환경변수](https://golang.org/doc/install/source#gopath)를 세팅하였는지 확인해주세요.
+      - 이와 관련된 보다 많은 팁을 [여기서 확인하세요](GOPATH).
     - [MultipleGoRoots](MultipleGoRoots) - More advanced information on working with multiple go installations and the `$GOROOT` variable.
   - [Go IDEs and Editors](IDEsAndTextEditorPlugins) - Information on how to use your favorite editor with Go.
   - [Tools for working with Go code](CodeTools) - Formatting, linting, vetting, refactoring, navigation and visualization.
