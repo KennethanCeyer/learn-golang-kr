@@ -43,12 +43,12 @@ Go로 여러분만의 코드를 작성하실 준비가 되셨나요? 여러분�
     - 우측 링크를 살펴봐주세요: [Go 오픈소스 프로젝트](Projects).
     - Go 패키지들을 검색해보세요: [godoc.org](http://godoc.org)
     - [Go 오픈소스 패키지 그래프](https://anvaka.github.io/pm/#/galaxy/gosearch?l=1)를 살펴보세요.
-  - [Managing your dependencies](PackageManagementTools) - An overview of the tools you can use to manage third-party packages (vendoring).
-  - Publishing Go Packages as Open Source
-    - Getting ready to publish your package? [Start here.](PackagePublishing)
-    - [The Go Checklist](https://github.com/matttproud/gochecklist) - A comprehensive guide for publishing a project.
-    - [How to layout your GitHub repo](GitHubCodeLayout) to make it easy to for other Go programmers to use with the `go get` command.
-    - [Go Package, Go](https://johnsto.co.uk/blog/go-package-go) - A few recommendations for making Go packages easy to use.
+  - [의존성 관리](PackageManagementTools) - 여러분의 써드파티 패키지를 관리할 수 있는 도구의 개요입니다.
+  - Go 패키지 오픈소스로 배포하기
+    - 패키지를 배포할 준비가 되셨나요? [이것을 살펴봐주세요](PackagePublishing)
+    - [Go 체크리스트](https://github.com/matttproud/gochecklist) - 프로젝트를 배포하기 위한 포괄적인 안내.
+    - [GitHub 리포지토리 설정방법](GitHubCodeLayout) - 다른 개발자들이 여러분의 패키지를 `go get` 명령으로 쉽게 사용할 수 있도록 설정합시다.
+    - [Go Package, Go](https://johnsto.co.uk/blog/go-package-go) - Go 패키지를 사용하기 쉽게 만드는 몇가지 방법을 확인하세요.
 
 ## Go에 대해 더 알아보기
 
