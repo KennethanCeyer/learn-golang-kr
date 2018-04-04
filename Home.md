@@ -48,7 +48,7 @@ Go로 여러분만의 코드를 작성하실 준비가 되셨나요? 여러분�
     - [How to layout your GitHub repo](GitHubCodeLayout) to make it easy to for other Go programmers to use with the `go get` command.
     - [Go Package, Go](https://johnsto.co.uk/blog/go-package-go) - A few recommendations for making Go packages easy to use.
 
-## Learning more about Go
+## Go에 대해 더 알아보기
 
 Once you have an overview of the language, here are resources you can use to learn more.
 
@@ -71,7 +71,7 @@ Once you have an overview of the language, here are resources you can use to lea
   - [University Courses](Courses) - A list of CS programs and classes using Go.    
   - [Resources for non-English speakers](NonEnglish)
 
-## The Go Community
+## Go 커뮤니티
 
 Here are some of the places where you can find Gophers online. To get a sense of what it means to be a member of the Go community, read [Damian Gryski's keynote from the GolankUK 2015 conference](https://medium.com/@dgryski/the-go-community-f0d00e3a19e) or watch [Andrew Gerrand's closing keynote from GopherCon 2015](https://www.youtube.com/watch?v=0ht89TxZZnk).
 
@@ -98,7 +98,7 @@ Here are some of the places where you can find Gophers online. To get a sense of
 - [Companies using Go](GoUsers) - A comprehensive list of companies using Go throughout the world.
 - Learn more about the [Go Gopher images](Gopher) by Renee French.
 
-## Using the go toolchain
+## Go 툴체인
 
   - Start with the standard documentation for the `go` command [available here](https://golang.org/cmd/go/)
   - Start here for to learn about [vendoring](https://golang.org/cmd/go/#hdr-Vendor_Directories).
@@ -122,7 +122,7 @@ Here are some of the places where you can find Gophers online. To get a sense of
     - [GoGenerateTools](GoGenerateTools)
     - [Go Tooling Essentials](https://rakyll.org/go-tool-flags/) - by Jaana Burcu Dogan
     
-## Additional Go Programming Wikis
+## Go의 또 다른 위키들
 
   - [Why Go doesn't Support Generics: A Summary of Go Generics Discussions](https://docs.google.com/document/d/1vrAy9gMpMoS3uaVphB32uVXX4pi-HnNjkMEgyAHX4N4/preview) - Start here before you join the debate.
   - Concurrency
@@ -163,7 +163,7 @@ Here are some of the places where you can find Gophers online. To get a sense of
   - [TableDrivenTests](TableDrivenTests)
 
 
-## Online Services that work with Go
+## Go로 동작하는 서비스들
 
 If you're looking for services that support Go, here's a list to get you started.
 
@@ -186,7 +186,7 @@ If you're looking for services that support Go, here's a list to get you started
     - [Gopkg.in](http://labix.org/gopkg.in) is a source for stable Go libraries, provided by Gustavo Niemeyer.
     - [Stable Lib](https://stablelib.com/) is a service that provides stable Go packages with long-term support.
 
-## Troubleshooting Go Programs in Production
+## Go를 이용한 프로덕션에서의 문제해결
 
   - Understand the performance of your Go apps using the [pprof package](http://blog.golang.org/profiling-go-programs)
   - Heap Dumps
@@ -194,7 +194,7 @@ If you're looking for services that support Go, here's a list to get you started
     - [heapdump14](heapdump14)
     - [heapdump15](https://github.com/golang/go/wiki/heapdump15)
 
-## Contributing to the Go Project
+## Go 프로젝트에 기여
 
   - Start by reading the [Go Contribution Guidelines](https://golang.org/doc/contribute.html)
   - If you'd like to propose a change to the Go project, start by reading the [Go Change Proposal Process](https://github.com/golang/proposal)
