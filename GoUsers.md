@@ -1,4 +1,4 @@
-# 전세계에서 아래 회사들이 지금 Go와 함께하고 있습니다
+# 지금 전세계에서 Go와 함께하고 있는 회사들
 
 ## 아제르바이잔
   * [Engossip](https://www.engossip.com/) - Finding partners to practise speaking in English (Globally).
