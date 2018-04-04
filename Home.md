@@ -21,7 +21,7 @@
   - [Go 표준 라이브러리 문서](https://golang.org/pkg/)를 보시고 표준 라이브러리와 친해지세요.
   - [Go Playground](http://play.golang.org)를 이용하여 Go 프로그램을 웹에서 확인해보세요.
   - 여전히 모르겠나요? [Go 사용자들](GoUsers)과 그들의 [성공 사례](SuccessStories)를 확인해보세요. 또한 여러분이 왜 Go를 사용해야하는지 여러가지 이유들을 정리해봤습니다 [왜 Go를 사용해야 할까요?](whygo).
-  - [다른언어에서 Go](https://github.com/golang/go/wiki/FromXToGo)로 전환한 회사들을 살펴보세요.
+  - [다른언어에서 Go](FromXToGo)로 전환한 회사들을 살펴보세요.
 
 ## Go로 작업하기
 
