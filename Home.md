@@ -211,10 +211,10 @@ If you're looking for services that support Go, here's a list to get you started
     - [Go Builds Dashboard info](DashboardBuilders)
     - [Performance Dashboard info](PerfDashboard)
 
-## Platform Specific Information
+## 플랫폼 관련 정보
 
-  - See [MinimumRequirements](MinimumRequirements) for minimum platform requirements of current Go ports.
-  - Considering porting Go to a new platform? [Read our porting policy first](PortingPolicy)
+  - 현재 Go에서 요구하는 [플랫폼 최소요구사항](MinimumRequirements)을 살펴보세요.
+  - Go를 새로운 플랫폼에 포팅하시기를 고려하시나요? [먼저 포팅 정책을 읽어봐주세요](PortingPolicy)
   - [Mobile](Mobile)
   - [Ubuntu](Ubuntu)
   - [Windows](Windows)
@@ -233,7 +233,7 @@ If you're looking for services that support Go, here's a list to get you started
   - [Plan 9](Plan9)
   - [Solaris](Solaris)
 
-## Release Specific Information
+## 릴리즈 관련 정보
 
   - [Go1point1Gotchas](Go1point1Gotchas)
   - [OlderVersions](OlderVersions)
