@@ -127,43 +127,43 @@ Here are some of the places where you can find Gophers online. To get a sense of
     
 ## Go의 또 다른 위키들
 
-  - [Why Go doesn't Support Generics: A Summary of Go Generics Discussions](https://docs.google.com/document/d/1vrAy9gMpMoS3uaVphB32uVXX4pi-HnNjkMEgyAHX4N4/preview) - Start here before you join the debate.
-  - Concurrency
-    - [Timeouts](Timeouts) - Abandon async calls that take too long
-    - [LockOSThread](LockOSThread)
-    - [MutexOrChannel](MutexOrChannel) - When to use one vs the other
-    - [RaceDetector](RaceDetector) - How to detect and fix race conditions
-  - Working with Databases
+  - [Go가 제너릭을 지원하지 않는 이유: 제너릭 의견 요약](https://docs.google.com/document/d/1vrAy9gMpMoS3uaVphB32uVXX4pi-HnNjkMEgyAHX4N4/preview) - Start here before you join the debate.
+  - 동시성 제어
+    - [Timeouts](https://github.com/golang/go/wiki/Timeouts) - Abandon async calls that take too long
+    - [LockOSThread](https://github.com/golang/go/wiki/LockOSThread)
+    - [MutexOrChannel](https://github.com/golang/go/wiki/MutexOrChannel) - When to use one vs the other
+    - [RaceDetector](https://github.com/golang/go/wiki/RaceDetector) - How to detect and fix race conditions
+  - 데이터베이스 사용하기
     - [database/sql](http://go-database-sql.org/) - Online tutorial for working with the database/sql package.
     - [TUGTBDDAwG](https://vividcortex.com/resources/building-database-driven-apps-with-go/) - Guide to building data driven apps.
-    - [SQLDrivers](SQLDrivers)
-    - [SQLInterface](SQLInterface)
-  - From other languages
+    - [SQLDrivers](https://github.com/golang/go/wiki/SQLDrivers)
+    - [SQLInterface](https://github.com/golang/go/wiki/SQLInterface)
+  - 다른 언어 개발자를 위한
     - [Go for Java Programmers](http://yourbasic.org/golang/go-java-tutorial/)
-    - [Go for C++ Programmers](GoForCPPProgrammers)
-  - Strings
-    - [GoStrings](GoStrings)
+    - [Go for C++ Programmers](https://github.com/golang/go/wiki/GoForCPPProgrammers)
+  - 문자열
+    - [GoStrings](https://github.com/golang/go/wiki/GoStrings)
     - [String Matching](http://blog.gopheracademy.com/advent-2014/string-matching/)
-  - [Comments](Comments)
-  - [CommonMistakes](CommonMistakes)
-  - [Errors](Errors)
-  - [GcToolchainTricks](GcToolchainTricks)
-  - [Hashing](Hashing)
-  - [HttpFetch](HttpFetch)
-  - [HttpStaticFiles](HttpStaticFiles)
-  - [InterfaceSlice](InterfaceSlice)
-  - [Iota](Iota)
-  - [MethodSets](MethodSets)
-  - [PanicAndRecover](PanicAndRecover)
-  - [Range](Range)
-  - [RateLimiting](RateLimiting)
-  - [Rationales](Rationales)
-  - [SendingMail](SendingMail)
-  - [SignalHandling](SignalHandling)
-  - [SimultaneousAssignment](SimultaneousAssignment)
-  - [SliceTricks](SliceTricks)
-  - [Switch](Switch)
-  - [TableDrivenTests](TableDrivenTests)
+  - [Comments](https://github.com/golang/go/wiki/Comments)
+  - [CommonMistakes](http://blog.gopheracademy.com/advent-2014/string-matching/)
+  - [Errors](https://github.com/golang/go/wiki/Errors)
+  - [GcToolchainTricks](https://github.com/golang/go/wiki/GcToolchainTricks)
+  - [Hashing](https://github.com/golang/go/wiki/Hashing)
+  - [HttpFetch](https://github.com/golang/go/wiki/HttpFetch)
+  - [HttpStaticFiles](https://github.com/golang/go/wiki/HttpStaticFiles)
+  - [InterfaceSlice](https://github.com/golang/go/wiki/InterfaceSlice)
+  - [Iota](https://github.com/golang/go/wiki/Iota)
+  - [MethodSets](https://github.com/golang/go/wiki/MethodSets)
+  - [PanicAndRecover](https://github.com/golang/go/wiki/PanicAndRecover)
+  - [Range](https://github.com/golang/go/wiki/Range)
+  - [RateLimiting](https://github.com/golang/go/wiki/RateLimiting)
+  - [Rationales](https://github.com/golang/go/wiki/Rationales)
+  - [SendingMail](https://github.com/golang/go/wiki/SendingMail)
+  - [SignalHandling](https://github.com/golang/go/wiki/SignalHandling)
+  - [SimultaneousAssignment](https://github.com/golang/go/wiki/SimultaneousAssignment)
+  - [SliceTricks](https://github.com/golang/go/wiki/SliceTricks)
+  - [Switch](https://github.com/golang/go/wiki/Switch)
+  - [TableDrivenTests](https://github.com/golang/go/wiki/TableDrivenTests)
 
 
 ## Go로 동작하는 서비스들
