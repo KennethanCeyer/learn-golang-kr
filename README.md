@@ -16,17 +16,17 @@ golang에 딥 다이브 하고싶어하시는 분들도 있고 golang을 쉽고 
 
 ## 목차
 
-+ [Go를 시작하며](https://github.com/KennethanCeyer/learn-golang-kr/wiki/#getting-started-with-go)
-+ [Go 작업하기](https://github.com/KennethanCeyer/learn-golang-kr/wiki/#working-with-go)
-+ [Go에 대해 더 알아보기](https://github.com/KennethanCeyer/learn-golang-kr/wiki/#learning-more-about-go)
-+ [Go 커뮤니티](https://github.com/KennethanCeyer/learn-golang-kr/wiki/#the-go-community)
-+ [Go 툴체인](https://github.com/KennethanCeyer/learn-golang-kr/wiki/#using-the-go-toolchain)
-+ [Go의 또 다른 위키들](https://github.com/KennethanCeyer/learn-golang-kr/wiki/#additional-go-programming-wikis)
-+ [Go로 동작하는 서비스들](https://github.com/KennethanCeyer/learn-golang-kr/wiki/#online-services-that-work-with-go)
-+ [Go를 이용한 프로덕션에서의 문제해결](https://github.com/KennethanCeyer/learn-golang-kr/wiki/#troubleshooting-go-programs-in-production)
-+ [Go 프로젝트에 기여](https://github.com/KennethanCeyer/learn-golang-kr/wiki/#contributing-to-the-go-project)
-+ [플랫폼 관련 정보](https://github.com/KennethanCeyer/learn-golang-kr/wiki/#platform-specific-information)
-+ [릴리즈 관련 정보](https://github.com/KennethanCeyer/learn-golang-kr/wiki/#release-specific-information)
++ [Go를 시작하며](https://github.com/KennethanCeyer/learn-golang-kr/wiki/#Go를-시작하며)
++ [Go 작업하기](https://github.com/KennethanCeyer/learn-golang-kr/wiki/#Go로-작업하기)
++ [Go에 대해 더 알아보기](https://github.com/KennethanCeyer/learn-golang-kr/wiki/#Go에-대해-더-알아보기)
++ [Go 커뮤니티](https://github.com/KennethanCeyer/learn-golang-kr/wiki/#Go-커뮤니티)
++ [Go 툴체인](https://github.com/KennethanCeyer/learn-golang-kr/wiki/#Go-툴체인)
++ [Go의 또 다른 위키들](https://github.com/KennethanCeyer/learn-golang-kr/wiki/#Go의-또-다른-위키들)
++ [Go로 동작하는 서비스들](https://github.com/KennethanCeyer/learn-golang-kr/wiki/#Go로-동작하는-서비스들)
++ [Go를 이용한 프로덕션에서의 문제해결](https://github.com/KennethanCeyer/learn-golang-kr/wiki/#Go를-이용한-프로덕션에서의-문제해결)
++ [Go 프로젝트에 기여](https://github.com/KennethanCeyer/learn-golang-kr/wiki/#Go-프로젝트에-기여)
++ [플랫폼 관련 정보](https://github.com/KennethanCeyer/learn-golang-kr/wiki/#플랫폼-관련-정보)
++ [릴리즈 관련 정보](https://github.com/KennethanCeyer/learn-golang-kr/wiki/#릴리즈-관련-정보)
 
 ## 기여
 
