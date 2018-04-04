@@ -1,6 +1,6 @@
-# Introduction
+# 소개
 
-This is a companion to http://golang.org/doc/install/source providing additional instructions for various operating systems.
+이 페이지는 http://golang.org/doc/install/source를 기준으로 다양한 운영체제에 대한 추가 지침사항을 제공하고 있습니다.
 
 ## Install C tools
 
