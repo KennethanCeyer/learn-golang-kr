@@ -34,13 +34,13 @@ Go로 여러분만의 코드를 작성하실 준비가 되셨나요? 여러분�
     - 설치중에 문제가 발생했나요? [설치문제 해결](InstallTroubleShooting)
     - 여러분이 [올바른 $GOPATH 환경변수](https://golang.org/doc/install/source#gopath)를 세팅하였는지 확인해주세요.
       - 이와 관련된 보다 많은 팁을 [여기서 확인하세요](GOPATH).
-    - [MultipleGoRoots](MultipleGoRoots) - More advanced information on working with multiple go installations and the `$GOROOT` variable.
-  - [Go IDEs and Editors](IDEsAndTextEditorPlugins) - Information on how to use your favorite editor with Go.
-  - [Tools for working with Go code](CodeTools) - Formatting, linting, vetting, refactoring, navigation and visualization.
-  - Finding Go Libraries and Packages
-    - Start here: [Go open source projects](Projects).
-    - Search for Go packages: [godoc.org](http://godoc.org)
-    - Visualization of the [Go open source package graph](https://anvaka.github.io/pm/#/galaxy/gosearch?l=1)
+    - [다중 GOROOT](MultipleGoRoots) - 여러 Go 설치 환경과 `$GOROOT` 환경변수 설정에 대한 자세한 정보를 살펴보실 수 있습니다.
+  - [Go IDE와 에디터들](IDEsAndTextEditorPlugins) - Go와 함께 사용하실 수 있는 여러분이 선호하는 에디터에 대한 정보입니다.
+  - [Go를 지원하는 도구들](CodeTools) - 포맷, 린트, 베팅, 리팩토링, 네비게이션, 시각화 관련 툴들이 정리되어 있습니다.
+  - Go 라이브러리와 패키지들을 살펴보세요
+    - 우측 링크를 살펴봐주세요: [Go 오픈소스 프로젝트](Projects).
+    - Go 패키지들을 검색해보세요: [godoc.org](http://godoc.org)
+    - [Go 오픈소스 패키지 그래프](https://anvaka.github.io/pm/#/galaxy/gosearch?l=1)를 살펴보세요.
   - [Managing your dependencies](PackageManagementTools) - An overview of the tools you can use to manage third-party packages (vendoring).
   - Publishing Go Packages as Open Source
     - Getting ready to publish your package? [Start here.](PackagePublishing)
