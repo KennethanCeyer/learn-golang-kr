@@ -1,10 +1,10 @@
 # 전세계에서 아래 회사들이 지금 Go와 함께하고 있습니다
 
-## Azerbaijan
+## 아제르바이잔
   * [Engossip](https://www.engossip.com/) - Finding partners to practise speaking in English (Globally).
   * [Tural Asgar](http://www.turalasgar.pro/) - Tural Asgar's personal blog.
 
-## Australia
+## 오스트레일리아
   * [Atlassian](http://atlassian.com/)
   * [BCZ](http://bcz.com/) - Human captcha verification with spam protection.
   * [Buildkite](https://buildkite.com/) - [github](https://github.com/buildkite/agent)
@@ -12,17 +12,15 @@
   * [OneConfig](http://www.oneconfig.com) - [my.oneconfig.com](https://my.oneconfig.com/devices)
   * [Sajari](https://www.sajari.com) - [github](https://github.com/sajari) [blog](https://www.sajari.com/blog/upgrading-sajari-to-go-15)
 
-## Austria
+## 오스트리아
   * [Gatherer](http://www.gathererapp.com/)
 
-## Bangladesh
+## 방글라데시
   * [AppsCode Ltd.](https://appscode.com) (BD subsidiary of AppsCode Inc.) - [facebook](https://www.facebook.com/appscodebd/), [github](https://github.com/appscode), [twitter](https://twitter.com/appscodehq)
   * [Telenor Health](https://www.mytonic.com)(A health service company) built USSD server with go
   * [Pathao](https://pathao.com)(A ride sharing company) 
 
-
-
-## Brazil
+## 브라질
   * [99 Taxis](http://www.99taxis.com/) - [github](https://github.com/99taxis)
   * [Acesso](http://acesso.io/) - [github](https://github.com/acesso-io)
   * [AStar](http://www.astarlabs.com)  - [github](https://github.com/astarlabs)
@@ -72,15 +70,15 @@
   * [VivaReal](http://www.vivareal.com.br) - [github](https://github.com/VivaReal)
   * [Walmart](http://www.walmart.com.br)
 
-## Belgium
+## 벨기에
   * [Pronovix](http://pronovix.com/) - [github](https://github.com/Pronovix)
   * [Be-Mobile](http://www.be-mobile.com/)
   * [OTA Insight](https://www.otainsight.com/)
 
-## Bulgaria
+## 불가리아
   * [clouWay](http://clouway.com/) - [github](https://github.com/clouway)
 
-## Canada
+## 캐나다
   * [ActiveState](https://activestate.com) - [blog](https://www.activestate.com/blog/2018/03/reproducible-builds-introducing-predictability-your-pipeline) - [github](https://github.com/ActiveState)
   * [Apex](https://apex.sh/)
   * [Greenfield Labs / Zenreach](https://zenreach.com) - [jobs](https://www.zenreach.com/careers/)
@@ -95,11 +93,11 @@
   * [Wattpad](https://www.wattpad.com/)
   * [500px](https://500px.com) - [blog](https://developers.500px.com/how-500px-serves-up-over-500tb-of-high-res-photos-fa81a376c594#.35tz2wtg2) - [github](https://github.com/500px)
 
-## Chile
+## 칠레
   * [Prey](https://preyproject.com) - [blog](https://preyproject.com/blog) - [github](https://github.com/prey)
   * [Webdox](http://www.webdox.cl)
  
-## China
+## 중국
   * [163yun](http://www.163yun.com/) - [github](https://github.com/163yun) - Netease Public Cloud
   * [BaishanCloud](https://en.baishancloud.com/)
   * [ByteDance](https://www.bytedance.com)
@@ -131,24 +129,25 @@
   * [Rainbond](http://www.rainbond.com) - [github](https://github.com/goodrain/rainbond) - Rainbond is an application centric PaaS
   * [MobiExchanger](http://www.mobiexchanger.com/) - Mobile Internet advertising company
   * [Inke](http://inke.com/) - the most popular broadcast platform
-## Croatia
+
+## 크로아티아
   * [GoodCode](http://goodcode.io/) - [github](https://github.com/dobarkod)
   * [Kraken](https://krakensystems.co/)
   * [minus5](https://minus5.hr/) - [github](https://github.com/minus5)
   * [Nivas](http://www.nivas.hr/) - [github](https://github.com/nivas)
   * [Rentlio](https://rentl.io) - [github](https://github.com/rentlio)
 
-## Colombia
+## 콜롬비아
   * [Wawandco](https://wawand.co) - [github](https://github.com/wawandco)
 
-## Denmark
+## 덴마크
   * [SYBO Games](http://sybogames.com)
   * [Vivino](https://www.vivino.com)
 
-## Estonia
+## 에스토니아
   * [Wallester](https://wallester.eu)
 
-## France
+## 프랑스
   * [Algolia](https://algolia.com)
   * [Batch.com](https://batch.com)
   * [Containo.us](https://containo.us/)
@@ -165,7 +164,7 @@
   * [Teads.tv](http://teads.tv/)
   * [Zenly](https://zen.ly/)
 
-## Germany
+## 독일
   * [Bürkert](https://www.burkert.com/en/)
   * [Doozer](https://www.doozer.de) - [github](https://github.com/doozer-de)
   * [Centrifuge](http://centrifuge.one) - [github](https://github.com/centrifuge)
@@ -189,15 +188,14 @@
   * [Weaveworks](http://weave.works)
   * [Zalando SE](https://www.zalando.com) - [blog](https://jobs.zalando.com/tech/blog/)
 
-
-## Hong Kong
+## 홍콩
   * [PassKit](https://passkit.com/) - [github](https://github.com/PassKit)
   * [Lalamove](https://github.com/lalamove)
 
-## Hungary
+## 헝가리
   * [Pronovix](http://pronovix.com/) - [github](https://github.com/Pronovix)
 
-## India
+## 인도
   * [AirCTO](https://aircto.com)
   * [AmberStudent](https://amberstudent.com)
   * [Betacraft](http://www.betacraft.co/)
@@ -241,7 +239,7 @@
   * [WazirX](https://wazirx.com/)
   * [Zerodha](https://kite.zerodha.com/)
 
-## Indonesia
+## 인도네시아
   * [Auditsi Executive Recruitment Services](http://auditsi.com)
   * [Amartha](https://amartha.com/id_ID/)
   * [Bildeco](https://bildeco.com)
@@ -286,17 +284,17 @@
   * [Valutac](https://valutac.com)
   * [Zelos](http://zelos.id)
 
-## Iran
+## 이란
   * [AlAlam](http://en.alalam.ir/) -- AlAlam news network TV channel
   * [Aparat](http://www.aparat.com) -- Most popular video sharing platform in Iran
   * [Asan Pardakht](http://asanpardakht.ir/) -- Pay Smarter. Pay Simpler. Pay Anywhere!
   * [SabzCity](https://sabz.city/) - [github](https://github.com/sabzcity/)
 
-## Ireland
+## 아일랜드
   * [Intercom](http://intercom.io/)
   * [Teamwork](http://teamwork.com/) - [blog](http://engineroom.teamwork.com/our-future-stack-or-why-we-love-knockout-coffeescript-redis-and-go/)
  
-## Israel
+## 이스라엘
   * [353Solutions](http://353solutions.com) 
   * [Aqua Security](https://www.aquasec.com)
   * [BigPanda](http://bigpanda.io) 
@@ -321,12 +319,12 @@
   * [Yodas](https://yodas.com) 
   * [Yotpo](https://www.yotpo.com/) 
 
-## Italy
+## 이탈리아
   * [Oxequa](http://www.oxequa.com) - ([Realize](https://github.com/oxequa/realize), [Grace](https://github.com/oxequa/grace))
   * [Qurami](http://www.qurami.com) - [github](https://github.com/qurami)
   * [Trenìt!](http://www.trenit.info) - ([FB post](https://www.facebook.com/trenitapp/posts/907728379283787)) -- Most popular mobile app for Italian trains schedules
 
-## Japan
+## 일본
   * [Bengo4.com,Inc.](https://corporate.bengo4.com/)
       * [CloudSign](https://www.cloudsign.jp/)
   * [CyberAgent, Inc.](https://www.cyberagent.co.jp/)
@@ -370,33 +368,33 @@
       * [github](https://github.com/wantedly?language=go)
   * [Fringe81](http://www.fringe81.com/)
 
-## Kazakhstan
+## 카자흐스탄
   * Kolesa LLC - microservices for classified ads websites and mobile applications backend ([Kolesa](http://kolesa.kz), [Krisha](https://krisha.kz), [Market](https://market.kz))
 
-## Korea (South)
+## 대한민국
   * [Digitalidea](http://www.digitalidea.co.kr) - inhouse tool for VFX
   * [Quicket](http://m.bunjang.co.kr) - Image Proxy, Push, Messenger
   * [Wemakeprice](http://www.wemakeprice.com) - CRM Solution
 
-## Lithuania
+## 리투아니아
   * [DATA-DOG](https://github.com/DATA-DOG)
 
-## Malaysia
+## 말레이시아
   * [MHub](https://mhub.my)
 
-## Mexico
+## 멕시코
   * [Segundamano](https://www.segundamano.mx/)
   
-## Middle East 
+## 중동
   * [aspros Wallet](http://asprosinstant.money/) ([Video](https://www.youtube.com/watch?v=BmsQYZpz1Ws))
 
-## Moldova
+## 몰도바
   * [Emphatic Spark](http://emphaticspark.com/)
 
-## Morocco
+## 모로코
   * [Avito](http://www.avito.ma)
 
-## Netherlands
+## 네덜란드
   * [BloomReach](https://www.bloomreach.com)
   * [bol.com](https://www.bol.com)
   * [Housing Anywhere](https://housinganywhere.com/)
@@ -413,17 +411,17 @@
   * [Xebia](https://xebia.com/) - [github](https://github.com/xebia)
   * [Yonego](https://www.bambelo.com/)
 
-## New Zealand
+## 뉴질랜드
   * [Hapara](http://hapara.com) - [github](https://github.com/Hapara)
   * [Vend](http://www.vendhq.com) - [github](https://github.com/vend)
   * [Weta Digital](http://www.wetafx.co.nz) - [Slides](https://talks.godoc.org/github.com/justinfx/demos/go_at_weta/go_at_weta.slide)
   * [Spalk](http://spalk.co)
   * [Movio](https://movio.co) - [article](https://movio.co/en/blog/migrate-Scala-to-Go/)
 
-## Philippines
+## 필리핀
   * [EngageSPARK](https://www.engagespark.com)
 
-## Poland
+## 폴란드
  * [allegro](http://allegro.pl) - [blog](http://allegro.tech) - biggest polish e-commerce platform
  * [hostit.pl](https://hostit.pl) - [blog](https://hostit.pl/blog/375,go-gadget-go.html)
  * [Brainhub](https://brainhub.eu) - [blog](https://brainhub.eu/golang-software-development.html)
@@ -436,17 +434,17 @@
  * [beFOGG](http://befogg.mobi) - platform that will take tourism to the next level
  * [Miquido](https://www.miquido.com) - Mobile-first software development company
 
-## Portugal
+## 포르투갈
   * [OLX](https://www.joinolx.com/)
   * [AppGeneration](http://appgeneration.com/)
   * [Lmit](http://lmit.pt/)
   * [Uniplaces](http://uniplaces.com/)
 
-## Romania
+## 루마니아
 * [Trisoft](https://www.wearetrisoft.com) - software development company with offices in San Francisco and Romania
 * [JobDone](https://jobdone.net) - Freelancer Marketplace
 
-## Russia
+## 러시아
 * [Acronis](http://acronis.com)
 * [ITooLabs](http://itoolabs.com)
 * [PostmanQ](https://github.com/actionpay/postmanq) - High performance Mail Transfer Agent (MTA)
@@ -454,19 +452,19 @@
 * [2GIS](http://info.2gis.com/)
 * [Tochka](http://tochka.com/)
 
-## Saudi Arabia
+## 사우디아라비아
 * [Tamkeen Technologies](http://tamkeentech.sa)
 
-## Singapore
+## 싱가폴
 * [OKiT247](https://okit247.com) - Frontend analytics and web content delivery.
 
-## Slovenia
+## 슬로베니아
   * [Visionect d.o.o.](http://www.visionect.com)
 
-## South Africa
+## 남아프리카공화국
   * [Luno](http://www.luno.com) - [github](https://github.com/luno)
 
-## Southeast Asia
+## 동남아시아
   * 🇻🇳 [Dwarves Foundation](http://www.dwarvesf.com) - [github](https://github.com/dwarvesf)
   * [engageSPARK](https://www.engagespark.com/) - [HN](https://news.ycombinator.com/item?id=10655752)
   * [Grab](http://www.grab.com/)
@@ -476,7 +474,7 @@
   * [Tokopedia](https://www.tokopedia.com/)
   * [TablePlus](https://https://tableplus.io/)
 
-## Spain
+## 스페인
   * [alea soluciones](https://github.com/aleasoluciones/)
   * [Bugfender](https://bugfender.com/)
   * [Cabify](https://cabify.com/) - [github](https://github.com/cabify/), [twitter](https://twitter.com/cabifydev)
@@ -489,7 +487,7 @@
   * [Mavrix](https://mavrix.es) - [github](https://github.com/betit/orion-go-sdk)  
   * [Typeform](https://www.typeform.com/)
 
-## Sweden
+## 스웨덴
   * [Kiliaro](https://kiliaro.com/)
   * [Min Doktor](https://mindoktor.se/)
   * [Slagkryssaren](https://slagkryssaren.com/)
@@ -497,7 +495,7 @@
   * [Greta](https://greta.io/)
   * [Booli](https://www.booli.se/)
 
-## Switzerland
+## 스위스
   * [AgFlow SA](http://www.agflow.com/)
   * [Centralway Numbrs AG](https://www.centralway.com/uk/)
   * [HolidayCheck](https://www.holidaycheck.ch/)
@@ -505,10 +503,10 @@
   * [Proton Technologies AG](https://protonmail.com)
   * [Ricardo](https://www.ricardo.ch/)
 
-## Taiwan
+## 타이완
   * [QNAP Systems, Inc.](https://www.qnap.com)
   
-## Thailand
+## 태국
   * [Appsynth Asia](https://appsynth.net/)
   * [AIS](http://www.ais.co.th/)  
   * [Computerlogy](https://computerlogy.com/)
@@ -522,7 +520,7 @@
   * [TRUE](http://truemoveh.truecorp.co.th/)
   * [Zanroo](https://www.zanroo.com/)
 
-## Turkey
+## 터키
   * [AKM Yazılım](http://www.akmyazilim.com/) - [github](https://github.com/akmyazilim)
   * [GramGames](http://gram.gs/)
   * [Insider](http://useinsider.com/)
@@ -536,14 +534,14 @@
   * [put.io](https://www.put.io/) - [github](https://github.com/putdotio)
 
 
-## Ukraine
+## 우크라이나
   * [Agilites](https://agilites.com)
   * [ElifTech](http://www.eliftech.com)
   * [iLighten](https://ilighten.com/)
   * [QArea](https://qarea.com/)
   * [Diligences](https://diligences.com/)
 
-## United Kingdom
+## 영국
   * [A1comms](https://www.a1comms.com/)
   * [Badoo](https://badoo.com) - [github](https://github.com/badoo/thunder)
   * [Belua](https://www.belua.com)
@@ -571,7 +569,7 @@
   * [YouView TV Ltd](http://www.youview.com)
   * [Ernest.io](http://ernest.io)
 
-## United States
+## 미국
 
   * [Google](http://google.com/) - the core Go team work at Google. Most uses of Go at Google are confidential.
     * [Kubernetes](http://kubernetes.io/)
@@ -937,4 +935,4 @@
   * [Tipe](https://tipe.io) - [github](https://github.com/tipeio)
   * [4wardtech Inc](http://4ward.tech/)
 
-See also [Success Stories](SuccessStories)
+[성공사례](SuccessStories)도 살펴보세요
