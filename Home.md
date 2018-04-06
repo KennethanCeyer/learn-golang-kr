@@ -96,19 +96,19 @@ Go에 대해 대략적으로 이해하셨다면, 아래에서 자세한 내용�
     - [GoBridge](http://golangbridge.org) - Go와 관련하여 소수 커뮤니티에게 전문 기술을 가르치고 다양성을 육성하는 자원봉사 단체입니다.
     - [Women Who Go](http://www.womenwhogo.org/)
     - [Go 사용자 그룹과 관련한 더 많은 정보는 이곳에서 살펴보세요.](GoUserGroups)
-- [컨퍼런스](Conferences) - A list of upcoming and past Go conferences and major events.
-- [Go를 사용하는 업체](GoUsers) - A comprehensive list of companies using Go throughout the world.
+- [컨퍼런스](Conferences) - 다가오거나 지난 Go 컨퍼런스 및 주요 이벤트들입니다.
+- [Go를 사용하는 업체](GoUsers) - 전세계에서 Go를 사용하는 업체들을 정리하였습니다.
 - [Go Gopher images](Gopher)에 대해 더 많이 알아보세요 출처: by Renee French.
 
 ## Go 툴체인
 
-  - Start with the standard documentation for the `go` command [available here](https://golang.org/cmd/go/)
-  - Start here for to learn about [vendoring](https://golang.org/cmd/go/#hdr-Vendor_Directories).
-  - See also [PackageManagementTools](PackageManagementTools) for package management tools.
-  - [Cross Compilation](https://rakyll.org/cross-compilation/)
-  - Shared libraries and Go (buildmode)
-    - [Go Shared Libraries](https://github.com/jbuberel/buildmodeshared) - Examples for creating and using shared libraries from Go and Python.
-    - [Sharing Go Packages with C](http://blog.ralch.com/tutorial/golang-sharing-libraries/) - by [@ralch](https://twitter.com/ralch).
+  - `go` 명령어와 관련된 공식 문서는 [이곳에서](https://golang.org/cmd/go/) 볼 수 있습니다.
+  - [vendoring](https://golang.org/cmd/go/#hdr-Vendor_Directories)에 대해서 알아보세요.
+  - [패키지 관리 도구](PackageManagementTools)를 통해 패키지 관리 도구들을 살펴보세요.
+  - [크로스 컴파일](https://rakyll.org/cross-compilation/)
+  - 공유 라이브러리 (buildmode)
+    - [Go 공유 라이브러리](https://github.com/jbuberel/buildmodeshared) - Go와 Python의 공유 라이브러리 생성 및 사용예제.
+    - [Go 패키지를 C와 공유](http://blog.ralch.com/tutorial/golang-sharing-libraries/) - 출처: by [@ralch](https://twitter.com/ralch).
     - [Calling Go libraries from Python](https://blog.filippo.io/building-python-modules-with-go-1-5/) - by Filippo Valsorda
     - [Calling Go libraries from Ruby](http://c7.se/go-and-ruby-ffi/) - by Peter Hellberg
     - [Calling Go libraries from Swift](https://rakyll.org/swift/) - by Jaana Burcu Dogan
