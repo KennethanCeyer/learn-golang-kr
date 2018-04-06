@@ -91,14 +91,14 @@ Go에 대해 대략적으로 이해하셨다면, 아래에서 자세한 내용�
   - Go 사용자들을 위한 메일링 리스트입니다 [golang-nuts](https://groups.google.com/forum/#!forum/golang-nuts) - 엄청 활발합니다!
     - 스택오버플로에 질문을 남기기전에, [이미 있는 질문은 아닌가요?](http://stackoverflow.com/tags/go)를 읽어주세요, 읽고나서 [어떤 질문이 좋은 질문일까요](HowToAsk)도 읽어주세요
   - 핵심 Go 오픈소스 프로젝트에 대한 토론을 원하시면 [golang-dev](https://groups.google.com/forum/#!forum/golang-dev)를 이용해주세요.
-  - To get just our release announcements, join [golang-announce](https://groups.google.com/forum/#!forum/golang-announce)
-- User Groups & Meetups - There are [Go Meetups in many cities](http://www.meetup.com/find/?allMeetups=false&keywords=golang&radius=Infinity&userFreeform=Sunnyvale%2C+CA&mcId=z94086&mcName=Sunnyvale%2C+CA&sort=recommended&eventFilter=mysugg)
-    - [GoBridge](http://golangbridge.org) - Volunteers helping underrepresented communities to teach technical skills and to foster diversity in Go.
+  - Go 릴리즈 정보를 얻을려면, [golang-announce](https://groups.google.com/forum/#!forum/golang-announce)에 참여하세요.
+- 사용자 그룹 & 밋업 - [많은 도시에 밋업이 열리고 있습니다](http://www.meetup.com/find/?allMeetups=false&keywords=golang&radius=Infinity&userFreeform=Sunnyvale%2C+CA&mcId=z94086&mcName=Sunnyvale%2C+CA&sort=recommended&eventFilter=mysugg)
+    - [GoBridge](http://golangbridge.org) - Go와 관련하여 소수 커뮤니티에게 전문 기술을 가르치고 다양성을 육성하는 자원봉사 단체입니다.
     - [Women Who Go](http://www.womenwhogo.org/)
-    - See here for [additional information GoUserGroups](GoUserGroups)
-- [Conferences](Conferences) - A list of upcoming and past Go conferences and major events.
-- [Companies using Go](GoUsers) - A comprehensive list of companies using Go throughout the world.
-- Learn more about the [Go Gopher images](Gopher) by Renee French.
+    - [Go 사용자 그룹과 관련한 더 많은 정보는 이곳에서 살펴보세요.](GoUserGroups)
+- [컨퍼런스](Conferences) - A list of upcoming and past Go conferences and major events.
+- [Go를 사용하는 업체](GoUsers) - A comprehensive list of companies using Go throughout the world.
+- [Go Gopher images](Gopher)에 대해 더 많이 알아보세요 출처: by Renee French.
 
 ## Go 툴체인
 
