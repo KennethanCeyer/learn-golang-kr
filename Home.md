@@ -78,13 +78,13 @@ Go에 대해 대략적으로 이해하셨다면, 아래에서 자세한 내용�
 
 은둔고수 Gophers들을 찾을 수 있는 링크들을 모아놓았습니다. Go 커뮤니티 멤버가 되는 것이 어떤 것을 의미하는지 이해하기위해 [Damian Gryski's keynote from the GolankUK 2015 conference](https://medium.com/@dgryski/the-go-community-f0d00e3a19e)글을 읽어보시기 바랍니다. 혹은 [Andrew Gerrand's closing keynote from GopherCon 2015](https://www.youtube.com/watch?v=0ht89TxZZnk)를 시청해보시기 바랍니다.
 
-- Where Gophers hangout online:
-  - [The Go Forum](https://forum.golangbridge.org/) - An all-purpose discussion forum for the Go community.
-  - [Gophers Slack Channel](http://gophers.slack.com/) - For real-time chat ([request membership](http://blog.gopheracademy.com/gophers-slack-community/)).
-  - [Golang News](http://golangnews.com) - For curated links about Go Programming.
-  - There is also a [/r/golang](http://reddit.com/r/golang) sub-reddit.
-  - On Twitter, follow the [@golang](https://twitter.com/golang) account and keep tabs on the [#golang](https://twitter.com/search?q=%23golang&src=typd) hashtag.
-  - We've also got a landing page on [Stack Overflow](http://stackoverflow.com/tags/go) for Go Q&A.
+- Gopher들의 채팅 커뮤니티:
+  - [The Go Forum](https://forum.golangbridge.org/) - 여러 주제에 대해 다루는 Go 커뮤니티.
+  - [Gophers Slack Channel](http://gophers.slack.com/) - 실시간 대화가 가능한 Go 커뮤니티 ([슬랙 가입요청은 이곳에](http://blog.gopheracademy.com/gophers-slack-community/)).
+  - [Golang News](http://golangnews.com) - Go 프로그래밍에 대한 알림을 원하실 때 이용하세요.
+  - [/r/golang](http://reddit.com/r/golang) Go에 대해 다루는 레딧 커뮤니티.
+  - 트위터를 사용하신다면, [@golang](https://twitter.com/golang) 계정을 팔로우하시고 [#golang](https://twitter.com/search?q=%23golang&src=typd) 해시태그를 주시해주세요.
+  - [Stack Overflow](http://stackoverflow.com/tags/go)에서 Go 관련 Q&A가 활발히 이루어지고 있습니다.
   - Matrix enthusiasts are invited to join [#Go:matrix.org](https://riot.im/app/#/room/#Go:matrix.org).
   - Discord users are welcome at the [Discord Gophers](https://discord.gg/VF92f7M) server. 
 - Mailing Lists
