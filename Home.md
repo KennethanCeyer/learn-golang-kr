@@ -53,26 +53,26 @@ Go로 여러분만의 코드를 작성하실 준비가 되셨나요? 여러분�
 
 ## Go에 대해 더 알아보기
 
-Once you have an overview of the language, here are resources you can use to learn more.
+Go에 대해 대략적으로 이해하셨다면, 아래에서 자세한 내용들을 추가적으로 살펴보세요.
 
-  - [Learning Go](Learn) - A collection of resources for learning Go - beginner to advanced.
-    - [Best Practices for a New Go Developer](https://medium.com/@IndianGuru/best-practices-for-a-new-go-developer-8660384302fc) - Insights from Go community members.
-    - [Server programming](LearnServerProgramming) - Building web, mobile, and API servers.
-    - [More on concurrency](LearnConcurrency)
-    - [More on error handling](LearnErrorHandling)
-    - [More on testing](LearnTesting)
-    - [More on mobile - Android and iOS](Mobile)
-  - [Books](Books) - A list of Go books that have been published (ebook, paper)
-  - [Blogs](Blogs) - Blogs about Go
-    - [Podcasts](Podcasts) - Podcasts and episodes featuring Go
-  - Videos, Talks and Presentations
-    - [GopherVids](http://gophervids.appspot.com/) is a searchable index of videos about Go.
-    - [GoTalks](GoTalks) - A collection of talks from Go conferences and meetups.
-    - [Screencasts](Screencasts)
-  - [Articles](Articles) - A collection of articles to help you learn more about Go.
-  - [Training](Training) - Free and commercial, online and classroom training for Go.
-  - [University Courses](Courses) - A list of CS programs and classes using Go.    
-  - [Resources for non-English speakers](NonEnglish)
+  - [Learning Go](Learn) - Go를 알아가기 위한 내용 모음 - 초급에서 고급까지.
+    - [새로운 Go 개발자를 위한 모범사례](https://medium.com/@IndianGuru/best-practices-for-a-new-go-developer-8660384302fc) - Go 커뮤니티 회원들의 인사이트.
+    - [서버 프로그래밍](LearnServerProgramming) - Building web, mobile, and API servers.
+    - [동시성 제어 추가정보](LearnConcurrency)
+    - [에러 핸들링 추가정보](LearnErrorHandling)
+    - [테스트 추가정보](LearnTesting)
+    - [모바일 개발 추가정보 - Android와 iOS](Mobile)
+  - [서적](Books) - Go 관련 서적 모음입니다 (일반서적과 E북)
+  - [블로그](Blogs) - Go에 대해서 다루는 블로그들 입니다.
+    - [팟캐스트](Podcasts) - Go에 대한 팟캐스트 및 에피소드들 입니다.
+  - 비디오, 논의 및 발표
+    - [GopherVids](http://gophervids.appspot.com/)는 Go 관련 비디오를 검색할 수 있는 모음집입니다.
+    - [GoTalks](GoTalks) - Go에 대해 논의, 밋업을 다룹니다.
+    - [스크린샷](Screencasts)
+  - [본문들](Articles) - Go에 대해 더 알아갈 수 있도록 도와주는 관련 본문들 모음집입니다.
+  - [연습](Training) - 무료 및 유로, Go를 위한 온라인 강의들입니다.
+  - [대학 강좌](Courses) - Go를 이용한 CS 프로그램들과 수업 목록입니다.
+  - [비 영어권 사용자들을 위한 자료](NonEnglish)
 
 ## Go 커뮤니티
 
