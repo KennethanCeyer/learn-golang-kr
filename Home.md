@@ -17,7 +17,7 @@
 
 ## Go를 시작하며
 
-  - [Go 둘러보기](http://tour.golang.org)를 이용해보세요 처음 시작할 때는 이곳이 제일 좋습니다.
+  - [Go 둘러보기 (A Tour of Go KR)](https://go-tour-kr.appspot.com/#1)를 이용해보세요 처음 시작할 때는 이곳이 제일 좋습니다.
   - [이펙티브 Go](https://golang.org/doc/effective_go.html)는 여러분이 Go를 자유자재로 사용하도록 도와줍니다.
   - [Go 표준 라이브러리 문서](https://golang.org/pkg/)를 보시고 표준 라이브러리와 친해지세요.
   - [Go Playground](http://play.golang.org)를 이용하여 Go 프로그램을 웹에서 확인해보세요.
