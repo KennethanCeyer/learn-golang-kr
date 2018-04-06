@@ -167,31 +167,31 @@ Go에 대해 대략적으로 이해하셨다면, 아래에서 자세한 내용�
 
 ## Go로 동작하는 서비스들
 
-If you're looking for services that support Go, here's a list to get you started.
+여러분이 Go를 지원하는 서비스를 찾고 계신다면, 아래에 모든 것이 수록되어 있습니다.
 
-  - Cloud Computing - Go is well supported on most cloud service providers.
-    - [Amazon Web Services](https://github.com/aws/aws-sdk-go)
-    - [Azure](https://github.com/Azure/azure-sdk-for-go)
-    - [Digital Ocean](https://github.com/digitalocean/godo)
+  - 클라우드 컴퓨팅 - Go는 대부분의 클라우드 서비스들에서 잘 동작하고 있습니다.
+    - [아마존 웹서비스(AWS)](https://github.com/aws/aws-sdk-go)
+    - [에저 (Azure)](https://github.com/Azure/azure-sdk-for-go)
+    - [디지털 오션 (Digital Ocean)](https://github.com/digitalocean/godo)
     - [GE Predix](https://github.com/geaviation/goboot-starter)
-    - [Google Cloud Platform for Go](https://cloud.google.com/go)
-    - [Heroku](https://github.com/heroku/heroku-buildpack-go)
+    - [구글 클라우드 플랫폼 (GCP)](https://cloud.google.com/go)
+    - [히로쿠 (Heroku)](https://github.com/heroku/heroku-buildpack-go)
     - [IBM Bluemix](https://developer.ibm.com/bluemix/2015/10/28/getting-started-with-golang-on-bluemix/)
-    - [OpenStack](https://github.com/openstack/golang-client)
+    - [오픈스택 (OpenStac)k](https://github.com/openstack/golang-client)
     - [Vscale](https://github.com/vscale/go-vscale)
-    - See here for [information on additional providers](ProviderIntegration)
-  - [Continuous Integration and Continuous Deployment](HostedContinuousIntegration) - Go is well supported by most CI/CD frameworks
-  - Monitoring/Logging
-    - [DeferPanic](http://deferpanic.com) - Dedicated Go application performance monitoring.
-    - [OpsDash](https://www.opsdash.com/) - Go-based cluster monitoring platform.
-  - Package and Dependency Management
-    - [Gopkg.in](http://labix.org/gopkg.in) is a source for stable Go libraries, provided by Gustavo Niemeyer.
-    - [Stable Lib](https://stablelib.com/) is a service that provides stable Go packages with long-term support.
+    - [추가적인 클라우드 제공사](ProviderIntegration)를 살펴보세요.
+  - [지속적인 통합(CI)과 지속적인 배포(CD)](HostedContinuousIntegration) - Go 대부분의 CI/CD 프레임워크를 잘 지원하고 있습니다.
+  - 모니터링/로깅
+    - [DeferPanic](http://deferpanic.com) - 전용 어플리케이션 성능 모니터링.
+    - [OpsDash](https://www.opsdash.com/) - Go 기반 클러스터 모니터링 플랫폼.
+  - 패키지 및 의존성 관리
+    - [Gopkg.in](http://labix.org/gopkg.in)는 Niemeyer에서 제공하는 안정된 Go 라이브러리들의 소스입니다.
+    - [Stable Lib](https://stablelib.com/)는 장기간 지원되는 안정된 Go 패키지를 제공하는 서비스입니다.
 
 ## Go를 이용한 프로덕션에서의 문제해결
 
-  - Understand the performance of your Go apps using the [pprof package](http://blog.golang.org/profiling-go-programs)
-  - Heap Dumps
+  - [pprof 패키지](http://blog.golang.org/profiling-go-programs)를 이용하여 여러분의 Go 앱의 성능을 이해해봅시다.
+  - 힙(Heap) 덤프
     - [heapdump13](heapdump13)
     - [heapdump14](heapdump14)
     - [heapdump15](https://github.com/golang/go/wiki/heapdump15)
