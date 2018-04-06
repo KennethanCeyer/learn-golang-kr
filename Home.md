@@ -29,7 +29,7 @@
 Go로 여러분만의 코드를 작성하실 준비가 되셨나요? 여러분이 시작하시는데 도움을 줄 수 있는 몇가지 링크를 준비했습니다.
 
   - 설치 및 환경세팅
-    - 해당 메뉴를 이용하세요: [공식 설치문서](https://golang.org/doc/install)
+    - [공식 설치문서](https://golang.org/doc/install)를 살펴보세요.
     -  만약에 소스를 통해 직접 설치를 원하신다면, [먼저 이 링크를 읽어주세요](https://golang.org/doc/install/source).
       - [소스를 통해 설치](InstallFromSource) - 소스 설치방법의 추가적인 팁들입니다.
     - Windows 사용자인가요? [Go 설치 및 설정 및 Windows 사용자를 위한 Git, Atom](https://github.com/abourget/getting-started-with-golang)
@@ -79,14 +79,14 @@ Go에 대해 대략적으로 이해하셨다면, 아래에서 자세한 내용�
 은둔고수 Gophers들을 찾을 수 있는 링크들을 모아놓았습니다. Go 커뮤니티 멤버가 되는 것이 어떤 것을 의미하는지 이해하기위해 [Damian Gryski's keynote from the GolankUK 2015 conference](https://medium.com/@dgryski/the-go-community-f0d00e3a19e)글을 읽어보시기 바랍니다. 혹은 [Andrew Gerrand's closing keynote from GopherCon 2015](https://www.youtube.com/watch?v=0ht89TxZZnk)를 시청해보시기 바랍니다.
 
 - Gopher들의 채팅 커뮤니티:
-  - [The Go Forum](https://forum.golangbridge.org/) - 여러 주제에 대해 다루는 Go 커뮤니티.
-  - [Gophers Slack Channel](http://gophers.slack.com/) - 실시간 대화가 가능한 Go 커뮤니티 ([슬랙 가입요청은 이곳에](http://blog.gopheracademy.com/gophers-slack-community/)).
-  - [Golang News](http://golangnews.com) - Go 프로그래밍에 대한 알림을 원하실 때 이용하세요.
+  - [Go 포럼](https://forum.golangbridge.org/) - 여러 주제에 대해 다루는 Go 커뮤니티.
+  - [고퍼(Gopher) 슬랙 채널](http://gophers.slack.com/) - 실시간 대화가 가능한 Go 커뮤니티 ([슬랙 가입요청은 이곳에](http://blog.gopheracademy.com/gophers-slack-community/)).
+  - [Golang 뉴스](http://golangnews.com) - Go 프로그래밍에 대한 알림을 원하실 때 이용하세요.
   - [/r/golang](http://reddit.com/r/golang) Go에 대해 다루는 레딧 커뮤니티.
   - 트위터를 사용하신다면, [@golang](https://twitter.com/golang) 계정을 팔로우하시고 [#golang](https://twitter.com/search?q=%23golang&src=typd) 해시태그를 주시해주세요.
-  - [Stack Overflow](http://stackoverflow.com/tags/go)에서 Go 관련 Q&A가 활발히 이루어지고 있습니다.
+  - [스택 오버플로우 (Stack Overflow)](http://stackoverflow.com/tags/go)에서 Go 관련 Q&A가 활발히 이루어지고 있습니다.
   - 매트릭스(Matrix) 사용자분들은 [#Go:matrix.org](https://riot.im/app/#/room/#Go:matrix.org)를 이용해주세요.
-  - [Discord Gophers](https://discord.gg/VF92f7M)에서 디스코드(Discord)를 이용하시는 유저들을 환영합니다. 
+  - [디스코드 고퍼 (Discord Gophers)](https://discord.gg/VF92f7M)에서 디스코드(Discord)를 이용하시는 유저들을 환영합니다. 
 - 메일링 리스트
   - Go 사용자들을 위한 메일링 리스트입니다 [golang-nuts](https://groups.google.com/forum/#!forum/golang-nuts) - 엄청 활발합니다!
     - 스택오버플로에 질문을 남기기전에, [이미 있는 질문은 아닌가요?](http://stackoverflow.com/tags/go)를 읽어주세요, 읽고나서 [어떤 질문이 좋은 질문일까요](HowToAsk)도 읽어주세요
@@ -122,47 +122,47 @@ Go에 대해 대략적으로 이해하셨다면, 아래에서 자세한 내용�
     - [GccgoCrossCompilation](GccgoCrossCompilation)
     - [GcToolchainTricks](GcToolchainTricks)
     - [GoGenerateTools](GoGenerateTools)
-    - [Go Tooling Essentials](https://rakyll.org/go-tool-flags/) - by Jaana Burcu Dogan
+    - [Go 필수 도구](https://rakyll.org/go-tool-flags/) - 출처: by Jaana Burcu Dogan
     
 ## Go의 또 다른 위키들
 
   - [Go가 제너릭을 지원하지 않는 이유: 제너릭 의견 요약](https://docs.google.com/document/d/1vrAy9gMpMoS3uaVphB32uVXX4pi-HnNjkMEgyAHX4N4/preview) - Start here before you join the debate.
   - 동시성 제어
-    - [Timeouts](https://github.com/golang/go/wiki/Timeouts) - Abandon async calls that take too long
-    - [LockOSThread](https://github.com/golang/go/wiki/LockOSThread)
-    - [MutexOrChannel](https://github.com/golang/go/wiki/MutexOrChannel) - When to use one vs the other
-    - [RaceDetector](https://github.com/golang/go/wiki/RaceDetector) - How to detect and fix race conditions
+    - [타임아웃 (Timeouts)](https://github.com/golang/go/wiki/Timeouts) - Abandon async calls that take too long
+    - [OS 쓰레드 락](https://github.com/golang/go/wiki/LockOSThread)
+    - [뮤텍스 (Mutex) 또는 채널 (Channel)](https://github.com/golang/go/wiki/MutexOrChannel) - When to use one vs the other
+    - [레이스(Race) 감지기](https://github.com/golang/go/wiki/RaceDetector) - How to detect and fix race conditions
   - 데이터베이스 사용하기
     - [database/sql](http://go-database-sql.org/) - Online tutorial for working with the database/sql package.
     - [TUGTBDDAwG](https://vividcortex.com/resources/building-database-driven-apps-with-go/) - Guide to building data driven apps.
-    - [SQLDrivers](https://github.com/golang/go/wiki/SQLDrivers)
-    - [SQLInterface](https://github.com/golang/go/wiki/SQLInterface)
+    - [SQL 드라이버](https://github.com/golang/go/wiki/SQLDrivers)
+    - [SQL 인터페이스](https://github.com/golang/go/wiki/SQLInterface)
   - 다른 언어 개발자를 위한
-    - [Go for Java Programmers](http://yourbasic.org/golang/go-java-tutorial/)
-    - [Go for C++ Programmers](https://github.com/golang/go/wiki/GoForCPPProgrammers)
+    - [자바 개발자들을 위한 Go](http://yourbasic.org/golang/go-java-tutorial/)
+    - [C++ 개발자들을 위한 Go](https://github.com/golang/go/wiki/GoForCPPProgrammers)
   - 문자열
-    - [GoStrings](https://github.com/golang/go/wiki/GoStrings)
-    - [String Matching](http://blog.gopheracademy.com/advent-2014/string-matching/)
-  - [Comments](https://github.com/golang/go/wiki/Comments)
-  - [CommonMistakes](http://blog.gopheracademy.com/advent-2014/string-matching/)
-  - [Errors](https://github.com/golang/go/wiki/Errors)
-  - [GcToolchainTricks](https://github.com/golang/go/wiki/GcToolchainTricks)
-  - [Hashing](https://github.com/golang/go/wiki/Hashing)
-  - [HttpFetch](https://github.com/golang/go/wiki/HttpFetch)
-  - [HttpStaticFiles](https://github.com/golang/go/wiki/HttpStaticFiles)
-  - [InterfaceSlice](https://github.com/golang/go/wiki/InterfaceSlice)
+    - [Go 문자열 (Strings)](https://github.com/golang/go/wiki/GoStrings)
+    - [문자열 매칭 (String Matching)](http://blog.gopheracademy.com/advent-2014/string-matching/)
+  - [주석](https://github.com/golang/go/wiki/Comments)
+  - [흔히 발생하는 실수들](http://blog.gopheracademy.com/advent-2014/string-matching/)
+  - [에러 (Errors)](https://github.com/golang/go/wiki/Errors)
+  - [GC 툴체인 (Toolchain) Tricks](https://github.com/golang/go/wiki/GcToolchainTricks)
+  - [해싱 (Hashing)](https://github.com/golang/go/wiki/Hashing)
+  - [Http Fetch](https://github.com/golang/go/wiki/HttpFetch)
+  - [Http Static Files](https://github.com/golang/go/wiki/HttpStaticFiles)
+  - [Interface Slice](https://github.com/golang/go/wiki/InterfaceSlice)
   - [Iota](https://github.com/golang/go/wiki/Iota)
-  - [MethodSets](https://github.com/golang/go/wiki/MethodSets)
-  - [PanicAndRecover](https://github.com/golang/go/wiki/PanicAndRecover)
+  - [Method Sets](https://github.com/golang/go/wiki/MethodSets)
+  - [패닉(Panic)과 복구(Recover)](https://github.com/golang/go/wiki/PanicAndRecover)
   - [Range](https://github.com/golang/go/wiki/Range)
-  - [RateLimiting](https://github.com/golang/go/wiki/RateLimiting)
-  - [Rationales](https://github.com/golang/go/wiki/Rationales)
-  - [SendingMail](https://github.com/golang/go/wiki/SendingMail)
-  - [SignalHandling](https://github.com/golang/go/wiki/SignalHandling)
-  - [SimultaneousAssignment](https://github.com/golang/go/wiki/SimultaneousAssignment)
-  - [SliceTricks](https://github.com/golang/go/wiki/SliceTricks)
-  - [Switch](https://github.com/golang/go/wiki/Switch)
-  - [TableDrivenTests](https://github.com/golang/go/wiki/TableDrivenTests)
+  - [Rate Limiting](https://github.com/golang/go/wiki/RateLimiting)
+  - [릴레이션 (Rationales)](https://github.com/golang/go/wiki/Rationales)
+  - [Sending Mail](https://github.com/golang/go/wiki/SendingMail)
+  - [신호(Signal) 핸들링](https://github.com/golang/go/wiki/SignalHandling)
+  - [Simultaneous Assignment](https://github.com/golang/go/wiki/SimultaneousAssignment)
+  - [Slice Tricks](https://github.com/golang/go/wiki/SliceTricks)
+  - [스위치 (Switch)](https://github.com/golang/go/wiki/Switch)
+  - [Table Driven Tests](https://github.com/golang/go/wiki/TableDrivenTests)
 
 
 ## Go로 동작하는 서비스들
