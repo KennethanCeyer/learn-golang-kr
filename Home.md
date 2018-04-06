@@ -85,12 +85,12 @@ Go에 대해 대략적으로 이해하셨다면, 아래에서 자세한 내용�
   - [/r/golang](http://reddit.com/r/golang) Go에 대해 다루는 레딧 커뮤니티.
   - 트위터를 사용하신다면, [@golang](https://twitter.com/golang) 계정을 팔로우하시고 [#golang](https://twitter.com/search?q=%23golang&src=typd) 해시태그를 주시해주세요.
   - [Stack Overflow](http://stackoverflow.com/tags/go)에서 Go 관련 Q&A가 활발히 이루어지고 있습니다.
-  - Matrix enthusiasts are invited to join [#Go:matrix.org](https://riot.im/app/#/room/#Go:matrix.org).
-  - Discord users are welcome at the [Discord Gophers](https://discord.gg/VF92f7M) server. 
-- Mailing Lists
-  - The mailing list for Go users is [golang-nuts](https://groups.google.com/forum/#!forum/golang-nuts) - very high traffic.
-    - Before you post, [check to see if it's already been answered](http://stackoverflow.com/tags/go), then read [these tips on how to ask a good question](HowToAsk)
-  - For discussions about the core Go open source project, join [golang-dev](https://groups.google.com/forum/#!forum/golang-dev).
+  - 매트릭스(Matrix) 사용자분들은 [#Go:matrix.org](https://riot.im/app/#/room/#Go:matrix.org)를 이용해주세요.
+  - [Discord Gophers](https://discord.gg/VF92f7M)에서 디스코드(Discord)를 이용하시는 유저들을 환영합니다. 
+- 메일링 리스트
+  - Go 사용자들을 위한 메일링 리스트입니다 [golang-nuts](https://groups.google.com/forum/#!forum/golang-nuts) - 엄청 활발합니다!
+    - 스택오버플로에 질문을 남기기전에, [이미 있는 질문은 아닌가요?](http://stackoverflow.com/tags/go)를 읽어주세요, 읽고나서 [어떤 질문이 좋은 질문일까요](HowToAsk)도 읽어주세요
+  - 핵심 Go 오픈소스 프로젝트에 대한 토론을 원하시면 [golang-dev](https://groups.google.com/forum/#!forum/golang-dev)를 이용해주세요.
   - To get just our release announcements, join [golang-announce](https://groups.google.com/forum/#!forum/golang-announce)
 - User Groups & Meetups - There are [Go Meetups in many cities](http://www.meetup.com/find/?allMeetups=false&keywords=golang&radius=Infinity&userFreeform=Sunnyvale%2C+CA&mcId=z94086&mcName=Sunnyvale%2C+CA&sort=recommended&eventFilter=mysugg)
     - [GoBridge](http://golangbridge.org) - Volunteers helping underrepresented communities to teach technical skills and to foster diversity in Go.
