@@ -109,12 +109,12 @@ Go에 대해 대략적으로 이해하셨다면, 아래에서 자세한 내용�
   - 공유 라이브러리 (buildmode)
     - [Go 공유 라이브러리](https://github.com/jbuberel/buildmodeshared) - Go와 Python의 공유 라이브러리 생성 및 사용예제.
     - [Go 패키지를 C와 공유](http://blog.ralch.com/tutorial/golang-sharing-libraries/) - 출처: by [@ralch](https://twitter.com/ralch).
-    - [Calling Go libraries from Python](https://blog.filippo.io/building-python-modules-with-go-1-5/) - by Filippo Valsorda
-    - [Calling Go libraries from Ruby](http://c7.se/go-and-ruby-ffi/) - by Peter Hellberg
-    - [Calling Go libraries from Swift](https://rakyll.org/swift/) - by Jaana Burcu Dogan
-    - [Build a Ruby Gem with a Go native extension](http://blog.paracode.com/2015/08/28/ruby-and-go-sitting-in-a-tree) - by @jondot
-    - [gohttplib](https://github.com/shazow/gohttplib) - An experiment in using Go 1.5 buildmode=c-shared.
-  - See the wikis below for additional details:
+    - [Python에서 Go 라이브러리 호출](https://blog.filippo.io/building-python-modules-with-go-1-5/) - 출처: by Filippo Valsorda
+    - [Ruby에서 Go 라이브러리 호출](http://c7.se/go-and-ruby-ffi/) - 출처: by Peter Hellberg
+    - [Swift에서 Go 라이브러리 호출](https://rakyll.org/swift/) - 출처: by Jaana Burcu Dogan
+    - [Go 네이티브 확장을 이용한 Ruby Gem 빌드](http://blog.paracode.com/2015/08/28/ruby-and-go-sitting-in-a-tree) - 출처: by @jondot
+    - [gohttplib](https://github.com/shazow/gohttplib) - Go 1.5 buildmode=c-shared를 이용한 실험.
+  - 자세한 내용은 아래 위키를 참조해주세요:
     - [GoGetTools](GoGetTools)
     - [GoGetProxyConfig](GoGetProxyConfig)
     - [cgo](cgo)
