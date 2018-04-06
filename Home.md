@@ -76,8 +76,7 @@ Go에 대해 대략적으로 이해하셨다면, 아래에서 자세한 내용�
 
 ## Go 커뮤니티
 
-Here are some of the places where you can find Gophers online. To get a sense of what it means to be a member of the Go community, read [Damian Gryski's keynote from the GolankUK 2015 conference](https://medium.com/@dgryski/the-go-community-f0d00e3a19e) or watch [Andrew Gerrand's closing keynote from GopherCon 2015](https://www.youtube.com/watch?v=0ht89TxZZnk).
-
+은둔고수 Gophers들을 찾을 수 있는 링크들을 모아놓았습니다. Go 커뮤니티 멤버가 되는 것이 어떤 것을 의미하는지 이해하기위해 [Damian Gryski's keynote from the GolankUK 2015 conference](https://medium.com/@dgryski/the-go-community-f0d00e3a19e)글을 읽어보시기 바랍니다. 혹은 [Andrew Gerrand's closing keynote from GopherCon 2015](https://www.youtube.com/watch?v=0ht89TxZZnk)를 시청해보시기 바랍니다.
 
 - Where Gophers hangout online:
   - [The Go Forum](https://forum.golangbridge.org/) - An all-purpose discussion forum for the Go community.
