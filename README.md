@@ -1,6 +1,7 @@
 <h1 align="center">:page_with_curl: learn golang kr</h1>
 <p align="center"><img width="140" src="https://www.pigno.se/static/assets/images/golang-kr-logo.svg" alt="golang-kr" /></p>
 <p align="center">golang을 시작하며 필요한 모든 정보를 취합하는 리포지토리 입니다.</p>
+<p align="center"><a href="https://www.pigno.se/barn/learn-golang-kr/docs/#/Home" target="_blank">:raised_hands: golang 빠른 가이드</a></p>
 
 ## 시작하며
 
