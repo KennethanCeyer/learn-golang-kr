@@ -1,12 +1,12 @@
 # 지금 전세계에서 Go와 함께하고 있는 회사들
 
 ## 아제르바이잔
-  * [Engossip](https://www.engossip.com/) - Finding partners to practise speaking in English (Globally).
-  * [Tural Asgar](http://www.turalasgar.pro/) - Tural Asgar's personal blog.
+  * [Engossip](https://www.engossip.com/) - 영어로 말하기 연습을 같이 할 파트너 찾기 (글로벌 서비스).
+  * [Tural Asgar](http://www.turalasgar.pro/) - Tural Asgar의 개인 블로그.
 
 ## 오스트레일리아
   * [Atlassian](http://atlassian.com/)
-  * [BCZ](http://bcz.com/) - Human captcha verification with spam protection.
+  * [BCZ](http://bcz.com/) - 스팸 방지 기능이 있는 캡챠(Captcha) 인증 서비스.
   * [Buildkite](https://buildkite.com/) - [github](https://github.com/buildkite/agent)
   * [Dgraph Labs](http://dgraph.io) - [github](https://github.com/dgraph-io/dgraph)
   * [OneConfig](http://www.oneconfig.com) - [my.oneconfig.com](https://my.oneconfig.com/devices)

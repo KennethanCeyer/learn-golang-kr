@@ -1,18 +1,19 @@
 (TODO: Add table of contents.)
 
-# Introduction
+# 개요
 
-There are many times in which you may install Go (either from source or from a binary distribution) and things don't work quite right.  This page is meant to collect some common wisdom about problems that are relatively common or difficult to diagnose and provide tips and solutions.
+여러분이 Go를 (소스 또는 바이너리 배포판 등에서) 설치하면서, 여러분의 Go는 의도한대로 동작하지 않을 수 있습니다. 이 페이지는 비교적 일반적이거나 진단하기 어려운 문제에 대한 몇 가지 해결 방법들을 수집하고 팁과 솔루션을 제공하는 것을 목적으로 하고 있습니다.
 
-# Tips
-## Environment
+# 팁 (Tips)
+## 환경 (Environment)
 
-To start out with, check the following first:
+시작하려면 먼저 다음을 확인해주세요:
+
   * GOROOT
-    * This should _only_ be set if you used a binary distribution and it's not installed in the default location.
+    * 이것은 **반드시** 여러분이 바이너리 배포판을 사용하고 그것이 기본 위치에 설치되지 않았을때만 설치되어야 합니다.
   * [GOPATH](http://golang.org/cmd/go#GOPATH_environment_variable)
-    * This should be set to the directory under which you want your source (and third party packages).
-    * This can also be set to a list of absolute paths separated by : (or ; on Windows).
+    * 여러분이 원하는 소스의 디렉토리에 설정해야 합니다. (서드파티(third party) 패키지에서도 적용).
+    * `:`로 구분된 절대 경로 목록으로 설정할 수도 있습니다. (또는 윈도우즈 에서는 `;`).
     * Note that ~/some/path is not absolute and will probably not work the way you expect (try $HOME/some/path instead).
     * GOPATH should not be set to or contain GOROOT
   * GOBIN

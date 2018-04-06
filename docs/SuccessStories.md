@@ -42,4 +42,4 @@
   * [List of Tech Migrations](http://kokizzu.blogspot.com/2016/12/list-of-tech-migrations.html)
   * [Making the move from Scala to Go, and why we’re not going back](https://movio.co/blog/migrate-Scala-to-Go/)
 
-[지금 전세계에서 Go와 함께하고 있는 회사들](GoUsers)을 살펴보세요
+[Go 사용자들](GoUsers)을 살펴보세요
