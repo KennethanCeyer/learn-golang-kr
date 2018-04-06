@@ -198,20 +198,20 @@ If you're looking for services that support Go, here's a list to get you started
 
 ## Go 프로젝트에 기여
 
-  - Start by reading the [Go Contribution Guidelines](https://golang.org/doc/contribute.html)
-  - If you'd like to propose a change to the Go project, start by reading the [Go Change Proposal Process](https://github.com/golang/proposal)
-    -  An archive of [design documents is also available](DesignDocuments)
-  - Go releases happen on ~6 month intervals. [See here for more information](Go-Release-Cycle)
-  - Want to know more about how the [Go source sub-repositories are structured?](SubRepositories)
-  - The Go project requires that all code be reviewed before it is submitted.
-    - Read more about our [code review practices](CodeReview)
-    - If you're commenting on code under review, please read [these guidelines](CodeReviewComments)
-  - Issues
-    - Bug reports and feature requests should be filed using the [GitHub issue tracker](https://github.com/golang/go/issues)
-    - Want to understand how we [handle issues that are reported?](HandlingIssues)
-  - Project Dashboards
-    - [Go Builds Dashboard info](DashboardBuilders)
-    - [Performance Dashboard info](PerfDashboard)
+  - [Go 기여 가이드](https://golang.org/doc/contribute.html)를 먼저 읽어주세요.
+  - Go 프로젝트에 수정 의견을 제안하고자 하신다면, [Go 수정 제안](https://github.com/golang/proposal)을 읽어주세요.
+    -  [문서 디자인](DesignDocuments)에 대한 가이드도 있습니다.
+  - Go 릴리즈는 6개월 단위로 이뤄집니다. [여기서 더 자세한 정보를 살펴보세요](Go-Release-Cycle).
+  -[Go 하위 리포지토리를 구성하는 방법](SubRepositories)이 무엇인지 알고싶으세요?
+  - Go 프로젝트에 수정사항을 제출하기 전에는 모든 코드는 리뷰가 되어야 합니다.
+    - [코드 리뷰 사례](CodeReview)를 살펴보세요.
+    - 검토중인 코드에 코맨트를 남기고 싶다면, [이 가이드](CodeReviewComments)를 읽어주세요.
+  - 이슈
+    - 버그 리포팅이나 기능 요청은 [GitHub 이슈트래커(issue tracker)](https://github.com/golang/go/issues)를 이용합니다.
+    - [이슈로 올라온 문제 처리](HandlingIssues)를 어떻게 하는지 궁금하세요?
+  - 프로젝트 대시보드
+    - [Go 빌드 대시보드](DashboardBuilders)
+    - [퍼포먼스(Performance) 대시보드](PerfDashboard)
 
 ## 플랫폼 관련 정보
 
