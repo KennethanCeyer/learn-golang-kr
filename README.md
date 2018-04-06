@@ -1,4 +1,4 @@
-<h1 align="center">:page_with_curl: learn-golang-kr</h1>
+<h1 align="center">:page_with_curl: learn golang kr</h1>
 <p align="center"><img width="140" src="https://www.pigno.se/static/assets/images/golang-kr-logo.svg" alt="golang-kr" /></p>
 <p align="center">golang을 시작하며 필요한 모든 정보를 취합하는 리포지토리 입니다.</p>
 
@@ -34,6 +34,13 @@
 4. 문서는 되도록 간결체를 사용합니다.
 5. 스크린샷이 필요한 경우 IDE는 `JetBrains GoLand` 스크린샷은 자유롭게 올리되 Pull Request에 기록합니다.  
 6. [GPG sign](https://help.github.com/articles/signing-commits-using-gpg/)이 된 커밋을 올려주시기 바랍니다.
+
+### 문서 구조
+
+1. 우리는 [GitHub WIKI](https://github.com/KennethanCeyer/learn-golang-kr/wiki)를 이용해서 문서화를 진행하고 있습니다.
+2. 업데이트 된 위키는 해당 리포지토리의 `subtree`로 구성되어 업데이트 됩니다.
+3. 그리고 우리는 [마법](https://github.com/QingWei-Li/docsify)을 이용해서 그렇게 업데이트 한 `readme.md`를 [GitHub Page](https://www.pigno.se/barn/learn-golang-kr/docs/#/Home)로 출판합니다.
+4. 추후 규모가 커지면 별도의 도메인으로 vhost 설정하여 url을 축약할 예정입니다.
 
 ## 로드맵
 
