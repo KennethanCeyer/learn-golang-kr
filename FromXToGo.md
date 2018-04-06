@@ -1,7 +1,7 @@
 이 페이지는 다른 언어에서 Go로 코드기반을 옮기는 것과 관련한 내용을 다룬 블로그 포스트, 비디오, 슬라이드 링크들을 보여줍니다.
 
 # Python
-* [Disqus: Trying out this Go thing](https://blog.disqus.com/trying-out-this-go-thing)
+* [Disqus: Go라는 것을 실험해보기](https://blog.disqus.com/trying-out-this-go-thing)
 * [Rackspace: Making OpenStack-Powered Rackspace Cloud Files Buzz With Hummingbird](https://blog.rackspace.com/making-openstack-powered-rackspace-cloud-files-buzz-with-hummingbird/)
 * [Repustate: From Python to Go: migrating our entire API](https://www.repustate.com/blog/migrating-entire-api-go-python/)
 * [Spacemonkey: Python to Go](https://www.spacemonkey.com/blog/posts/go-space-monkey)
