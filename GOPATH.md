@@ -1,19 +1,19 @@
-# Introduction
+# 개요
 
-The GOPATH environment variable is used to specify directories outside of $GOROOT that contain the source for Go projects and their binaries.
+GOPATH 환경변수는 Go 프로젝트와 해당 바이너리의 소스를 가지는 $GOROOT의 의부 디렉토리를 지정하는데 사용됩니다.
 
-See the [go command](http://golang.org/cmd/go/#hdr-GOPATH_environment_variable) and [go/build package](http://golang.org/pkg/go/build/) documentation for more details.
+더 다양한 정보를 위해 [go command](http://golang.org/cmd/go/#hdr-GOPATH_environment_variable) and [go/build package](http://golang.org/pkg/go/build/) 문서를 확인해보시기 바랍니다.
 
-Since the $GOPATH variable can be a list, the rest of this document will use $GOPATH to mean the first element unless otherwise specified.
+$GOPATH 변수는 리스트가 될 수 있기에, 이 문서의 나머지 부분은 별도로 명시하지 않는 한 첫 번째 요소는 $GOPATH를 의미합니다.
 
-## Integrating GOPATH
+## 통합 GOPATH
 
-On OS X or Linux (bash), adding the following expression to PATH will add all $GOPATH/bin directories.
+OS X 또는 Linux (bash)에서 다음의 값을 PATH에 추가하면 모든 $GOPATH/bin이 추가됩니다.
 ```
 ${GOPATH//://bin:}/bin
 ```
 
-## Directory layout
+## 디렉토리 구성
 
 The source for a package with the import path ` "X/Y/Z" ` is in the directory
 ```
