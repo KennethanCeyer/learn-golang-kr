@@ -31,11 +31,11 @@ $GOPATH/bin/B
 ```
 
 ## 리포지토리 통합 및 "go gettable" 프로젝트 생성
-When fetching a package the go tool looks at the package's import path to discover a URL. For instance, if you attempt to
+패키지를 가져 올 때 go 도구는 패키지의 import 경로를 확인하여 URL을 찾습니다. 예를들어 여러분이 아래와 같은 커맨드라인을 사용할 때
 ```
 go get github.com/go-kit/kit
 ```
-the go tool will get the source from the project hosted at https://github.com/go-kit/kit/. It will clone the repository to
+go 도구는 https://github.com/go-kit/kit/에 호스트된 프로젝트에서 소스를 가져옵니다. 이때 리포지토리를 아래 경로로 클론합니다.
 ```
 $GOPATH/src/github.com/go-kit/kit
 ```
