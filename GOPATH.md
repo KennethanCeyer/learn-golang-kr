@@ -31,7 +31,7 @@ $GOPATH/bin/B
 ```
 
 ## 리포지토리 통합 및 "go gettable" 프로젝트 생성
-패키지를 가져 올 때 go 도구는 패키지의 import 경로를 확인하여 URL을 찾습니다. 예를들어 여러분이 아래와 같은 커맨드라인을 사용할 때
+패키지를 가져 올 때 go 도구는 패키지의 임포트 경로를 확인하여 URL을 찾습니다. 예를들어 여러분이 아래와 같은 커맨드라인을 사용할 때
 ```
 go get github.com/go-kit/kit
 ```
@@ -40,7 +40,7 @@ go 도구는 https://github.com/go-kit/kit/에 호스트된 프로젝트에서 �
 $GOPATH/src/github.com/go-kit/kit
 ```
 
-As a result, if (from your repository project) you import a package that is in the same repository, you need to use its "full" import path - the place "go get" puts it. In this example, if something else wants to import the "kit" package, it should import "github.com/go-kit/kit" rather than "kit".
+결과적으로, (리포지토리 대상 프로젝트에서) 동일한 리포지토리에있는 패키지를 가져 오는 경우 여러분은 "전체" 임포트 경로를 사용해야합니다 - the place "go get" puts it. In this example, if something else wants to import the "kit" package, it should import "github.com/go-kit/kit" rather than "kit".
 
 ## Tips and tricks
 
