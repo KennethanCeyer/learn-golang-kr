@@ -50,4 +50,4 @@ GOPATH가 디렉토리 목록일 수 있더라도 일반적으로 시스템의 �
 
 ## FAQ
 ### `$GOPATH/src/cmd/mycmd/*.go`가 빌드되지 않는 이유가 뭔가요?
-When the go command is looking for packages, it always looks in ` $GOROOT ` first.  This includes directories, so if it finds (as in the case above) a ` cmd/ ` directory in ` $GOROOT ` it won't proceed to look in any of the GOPATH directories.  This prevents you from defining your own ` math/matrix ` package as well as your own ` cmd/mycmd ` commands.
+Go 커맨드가 패키지를 찾을 때 대부분 `$GOROOT`를 먼저 찾습니다. This includes directories, so if it finds (as in the case above) a ` cmd/ ` directory in ` $GOROOT ` it won't proceed to look in any of the GOPATH directories.  This prevents you from defining your own ` math/matrix ` package as well as your own ` cmd/mycmd ` commands.
