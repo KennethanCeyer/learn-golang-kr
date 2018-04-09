@@ -30,7 +30,7 @@ $GOPATH/pkg/$GOOS_$GOARCH/X/Y/Z.a
 $GOPATH/bin/B
 ```
 
-## Repository integration and creating "go gettable" projects
+## 리포지토리 통합 및 "go gettable" 프로젝트 생성
 When fetching a package the go tool looks at the package's import path to discover a URL. For instance, if you attempt to
 ```
 go get github.com/go-kit/kit
