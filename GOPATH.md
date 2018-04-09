@@ -15,17 +15,17 @@ ${GOPATH//://bin:}/bin
 
 ## 디렉토리 구성
 
-The source for a package with the import path ` "X/Y/Z" ` is in the directory
+`"X/Y/Z"` 형태의 import 경로를 가진 패키지 소스는 아래와 같은 디렉토리 구성을 갖습니다.
 ```
 $GOPATH/src/X/Y/Z
 ```
 
-The binary for a package with the import path ` "X/Y/Z" ` is in
+`"X/Y/Z"` 형태의 import 경로를 가진 바이너리 패키지는 아래와 같은 디렉토리 구성을 갖습니다.
 ```
 $GOPATH/pkg/$GOOS_$GOARCH/X/Y/Z.a
 ```
 
-The binary for a command whose source is in ` $GOPATH/src/A/B ` is
+소스가 `$GOPATH/src/A/B`에 위치한 바이너리 명령어는 아래와 같은 디렉토리 구성을 갖습니다.
 ```
 $GOPATH/bin/B
 ```
