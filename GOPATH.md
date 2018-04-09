@@ -31,7 +31,7 @@ $GOPATH/bin/B
 ```
 
 ## 리포지토리 통합 및 "go gettable" 프로젝트 생성
-패키지를 가져 올 때 go 도구는 패키지의 임포트 경로를 확인하여 URL을 찾습니다. 예를들어 여러분이 아래와 같은 커맨드라인을 사용할 때
+패키지를 가져 올 때 Go 도구는 패키지의 임포트 경로를 확인하여 URL을 찾습니다. 예를들어 여러분이 아래와 같은 커맨드라인을 사용할 때
 ```
 go get github.com/go-kit/kit
 ```
@@ -40,13 +40,13 @@ go 도구는 https://github.com/go-kit/kit/에 호스트된 프로젝트에서 �
 $GOPATH/src/github.com/go-kit/kit
 ```
 
-결과적으로, (리포지토리 대상 프로젝트에서) 동일한 리포지토리에있는 패키지를 가져 오는 경우 여러분은 "전체" 임포트 경로를 사용해야합니다 - the place "go get" puts it. In this example, if something else wants to import the "kit" package, it should import "github.com/go-kit/kit" rather than "kit".
+결과적으로, (리포지토리 대상 프로젝트에서) 동일한 리포지토리에있는 패키지를 가져 오는 경우 여러분은 "전체" 임포트 경로를 사용해야합니다 - 이 예제에 "kit" 패키지를 불러오기를 원하는 경우 "kit" 보다는 "github.com/go-kit/kit"을 임포트 하는 것이 좋습니다.
 
 ## 팁과 트릭들
 
 ### 단일 GOPATH를 사용하세요
 
-Even though the GOPATH may be a list of directories, it is generally sufficient to use a single GOPATH for all Go code on your machine.  Since all packages retrieved with "go get" have a unique URL (and thus a unique path on disk), having more than one GOPATH is almost never necessary when building with the Go tool.
+GOPATH가 디렉토리 목록일 수 있더라도 일반적으로 시스템의 모든 Go 코드에 대해 단일 GOPATH를 사용하는 것으로 충분합니다. "go get"으로 검색된 모든 패키지는 고유한 URL(그리고 각 디스크의 고유한 경로)을 갖기 때문에 Go 도구를 사용하여 빌드 할 때 둘 이상의 GOPATH 설정이 필요한 경우는 거의 존재하지 않습니다.
 
 ## FAQ
 ### `$GOPATH/src/cmd/mycmd/*.go`가 빌드되지 않는 이유가 뭔가요?
