@@ -1,6 +1,6 @@
-# Introduction
+# 개요
 
-Tips for hacking on Go and having multiple ` $GOROOT ` workspaces...
+Go 해킹방법 및 여러 `$GOROOT` 워크스페이스를 가지는 방법에 대한 팁입니다...
 
 Sometimes you need to check out multiple copies of the Go tree, perhaps you're working on several core library changes at once and you want to test them independently.
 
@@ -8,7 +8,7 @@ Let's say you've checked the trees out as ` $HOME/go1 `, ` $HOME/go2 `, etc.  (T
 
 Define a script called ` go `, and ensure its directory is on your ` PATH ` or define a shell alias ` go ` that points to it.  In the script, set the ` GOROOT ` and (if you like) ` GOPATH ` environment variables to appropriate values determined from your current working directory.  Then exec the real ` go ` command.
 
-For example:
+예시:
 
 ```
 #!/bin/sh
