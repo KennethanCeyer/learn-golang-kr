@@ -42,12 +42,12 @@ $GOPATH/src/github.com/go-kit/kit
 
 결과적으로, (리포지토리 대상 프로젝트에서) 동일한 리포지토리에있는 패키지를 가져 오는 경우 여러분은 "전체" 임포트 경로를 사용해야합니다 - the place "go get" puts it. In this example, if something else wants to import the "kit" package, it should import "github.com/go-kit/kit" rather than "kit".
 
-## Tips and tricks
+## 팁과 트릭들
 
-### Use a single GOPATH
+### 단일 GOPATH를 사용하세요
 
 Even though the GOPATH may be a list of directories, it is generally sufficient to use a single GOPATH for all Go code on your machine.  Since all packages retrieved with "go get" have a unique URL (and thus a unique path on disk), having more than one GOPATH is almost never necessary when building with the Go tool.
 
 ## FAQ
-### Why won't ` $GOPATH/src/cmd/mycmd/*.go ` build?
+### `$GOPATH/src/cmd/mycmd/*.go`가 빌드되지 않는 이유가 뭔가요?
 When the go command is looking for packages, it always looks in ` $GOROOT ` first.  This includes directories, so if it finds (as in the case above) a ` cmd/ ` directory in ` $GOROOT ` it won't proceed to look in any of the GOPATH directories.  This prevents you from defining your own ` math/matrix ` package as well as your own ` cmd/mycmd ` commands.
