@@ -128,41 +128,41 @@ Go에 대해 대략적으로 이해하셨다면, 아래에서 자세한 내용�
 
   - [Go가 제너릭을 지원하지 않는 이유: 제너릭 의견 요약](https://docs.google.com/document/d/1vrAy9gMpMoS3uaVphB32uVXX4pi-HnNjkMEgyAHX4N4/preview) - Start here before you join the debate.
   - 동시성 제어
-    - [타임아웃 (Timeouts)](https://github.com/golang/go/wiki/Timeouts) - Abandon async calls that take too long
-    - [OS 쓰레드 락](https://github.com/golang/go/wiki/LockOSThread)
-    - [뮤텍스 (Mutex) 또는 채널 (Channel)](https://github.com/golang/go/wiki/MutexOrChannel) - When to use one vs the other
-    - [레이스(Race) 감지기](https://github.com/golang/go/wiki/RaceDetector) - How to detect and fix race conditions
+    - [타임아웃 (Timeouts)](Timeouts) - Abandon async calls that take too long
+    - [OS 쓰레드 락](LockOSThread)
+    - [뮤텍스 (Mutex) 또는 채널 (Channel)](MutexOrChannel) - When to use one vs the other
+    - [레이스(Race) 감지기](RaceDetector) - How to detect and fix race conditions
   - 데이터베이스 사용하기
     - [database/sql](http://go-database-sql.org/) - Online tutorial for working with the database/sql package.
     - [TUGTBDDAwG](https://vividcortex.com/resources/building-database-driven-apps-with-go/) - Guide to building data driven apps.
-    - [SQL 드라이버](https://github.com/golang/go/wiki/SQLDrivers)
-    - [SQL 인터페이스](https://github.com/golang/go/wiki/SQLInterface)
+    - [SQL 드라이버](SQLDrivers)
+    - [SQL 인터페이스](SQLInterface)
   - 다른 언어 개발자를 위한
     - [자바 개발자들을 위한 Go](http://yourbasic.org/golang/go-java-tutorial/)
-    - [C++ 개발자들을 위한 Go](https://github.com/golang/go/wiki/GoForCPPProgrammers)
+    - [C++ 개발자들을 위한 Go](GoForCPPProgrammers)
   - 문자열
-    - [Go 문자열 (Strings)](https://github.com/golang/go/wiki/GoStrings)
+    - [Go 문자열 (Strings)](GoStrings)
     - [문자열 매칭 (String Matching)](http://blog.gopheracademy.com/advent-2014/string-matching/)
-  - [주석](https://github.com/golang/go/wiki/Comments)
+  - [주석](Comments)
   - [흔히 발생하는 실수들](http://blog.gopheracademy.com/advent-2014/string-matching/)
-  - [에러 (Errors)](https://github.com/golang/go/wiki/Errors)
-  - [GC 툴체인 (Toolchain) Tricks](https://github.com/golang/go/wiki/GcToolchainTricks)
-  - [해싱 (Hashing)](https://github.com/golang/go/wiki/Hashing)
-  - [Http Fetch](https://github.com/golang/go/wiki/HttpFetch)
-  - [Http Static Files](https://github.com/golang/go/wiki/HttpStaticFiles)
-  - [Interface Slice](https://github.com/golang/go/wiki/InterfaceSlice)
-  - [Iota](https://github.com/golang/go/wiki/Iota)
-  - [Method Sets](https://github.com/golang/go/wiki/MethodSets)
-  - [패닉(Panic)과 복구(Recover)](https://github.com/golang/go/wiki/PanicAndRecover)
-  - [Range](https://github.com/golang/go/wiki/Range)
-  - [Rate Limiting](https://github.com/golang/go/wiki/RateLimiting)
-  - [릴레이션 (Rationales)](https://github.com/golang/go/wiki/Rationales)
-  - [Sending Mail](https://github.com/golang/go/wiki/SendingMail)
-  - [신호(Signal) 핸들링](https://github.com/golang/go/wiki/SignalHandling)
-  - [Simultaneous Assignment](https://github.com/golang/go/wiki/SimultaneousAssignment)
-  - [Slice Tricks](https://github.com/golang/go/wiki/SliceTricks)
-  - [스위치 (Switch)](https://github.com/golang/go/wiki/Switch)
-  - [Table Driven Tests](https://github.com/golang/go/wiki/TableDrivenTests)
+  - [에러 (Errors)](Errors)
+  - [GC 툴체인 (Toolchain) Tricks](GcToolchainTricks)
+  - [해싱 (Hashing)](Hashing)
+  - [Http Fetch](HttpFetch)
+  - [Http Static Files](HttpStaticFiles)
+  - [Interface Slice](InterfaceSlice)
+  - [Iota](Iota)
+  - [Method Sets](MethodSets)
+  - [패닉(Panic)과 복구(Recover)](PanicAndRecover)
+  - [Range](Range)
+  - [Rate Limiting](RateLimiting)
+  - [릴레이션 (Rationales)](Rationales)
+  - [Sending Mail](SendingMail)
+  - [신호(Signal) 핸들링](SignalHandling)
+  - [Simultaneous Assignment](SimultaneousAssignment)
+  - [Slice Tricks](SliceTricks)
+  - [스위치 (Switch)](Switch)
+  - [Table Driven Tests](TableDrivenTests)
 
 
 ## Go로 동작하는 서비스들
@@ -194,7 +194,7 @@ Go에 대해 대략적으로 이해하셨다면, 아래에서 자세한 내용�
   - 힙(Heap) 덤프
     - [heapdump13](heapdump13)
     - [heapdump14](heapdump14)
-    - [heapdump15](https://github.com/golang/go/wiki/heapdump15)
+    - [heapdump15](heapdump15)
 
 ## Go 프로젝트에 기여
 
