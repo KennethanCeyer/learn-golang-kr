@@ -34,9 +34,9 @@ Notice that this is ` src/pkg `; under GOPATH, source files are stored in
 
 Because of this inconsistency, it is generally not recommended that GOPATH be set to or contain GOROOT; its directories will be searched automatically for imports regardless of the GOPATH setting.
 
-# Troubleshooting
-#### The ` go build ` command doesn't do anything!
-The ` go build ` command will only produce a binary; if you run go build in a package directory, it will build the package normally (and report any compile errors), but it will not install it.  For that, you use ` go install `.  If you think you're building a binary and none is produced, make sure you are in package ` main ` and that you do not have GOBIN set.
+# 문제 해결하기(Troubleshooting)
+#### ` go build ` 명령어가 말을 안들어요!
+` go build ` 명령어는 오직 바이너리 파일을 생성합니다. 만약 여러분이 go build를 패키지 디렉토리에서 실행시켰다면, 패키지를 정상적으로 빌드할 것입니다 (그리고 컴파일에 문제 또한 보여줄 겁니다), 하지만 빌드한 파일을 설치해주지는 않습니다. 정상적인 설치를 원한다면, ` go install ` 명령어를 사용해야 합니다. 만약 여러분이 바이너리 파일 생성을 의도했지만 아무것도 만들어지지 않은 경우, 여러분의 프로젝트가 ` main ` 패키지 안에 있는지 그리고 GOBIN을 세팅하지 않았는지 확인해주세요.
 
 #### Why does ` go get ` report ` "Fetching https://runtime/cgo?go-get=1" `?
 If you have a source distribution, make sure that your packages are up-to-date.  Also double check the environment above.
